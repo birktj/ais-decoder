@@ -1,0 +1,9 @@
+[package]
+name = "ais-decoder"
+version = "0.1.0"
+authors = ["Birk Tjelmeland <birktjelmeland@yahoo.no>"]
+
+[dependencies]
+hound = "3.4"
+gnuplot = "0.0"
+crc = "1.8"
